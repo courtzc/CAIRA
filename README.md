@@ -43,7 +43,6 @@ Want to jump right into CAIRA? Here are the details on getting started!
 1. Explore the configuration and customize as needed. Installation steps can be found in the nested README.md file, or through the caira-assistant.
 1. Happy AI-ing!
 
-## Contributing
 
 ## Contributing
 
